@@ -17,7 +17,7 @@ output: html_document
 <br><br><br>
 👋🏽 Hello, my name is Wonjae Lee. 
 
-🎓 Soon to be grad with a M.S. in Statistics at Stony Brook University. (December 2024)
+🎓 Soon to be grad with a -. (December 2024)
 
 🌇 New York City Native, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
 
@@ -27,7 +27,7 @@ output: html_document
 💻 In the future, I aspire to apply my skills in data analysis to drive impactful marketing strategies. My goal is to work collaboratively with marketing teams, using data-driven insights to enhance decision-making and optimize business outcomes.
 
 
-🏔 In my free time, I enjoy listening to songs by the K-pop idol group Day6.
+🏔 In my free time, I enjoy ~.
 
 💪 Data Analysis with a specialty in interpreting and leveraging large datasets to derive actionable insights and inform business strategies
 
